@@ -12,3 +12,4 @@ print(sentence1)
 print(len(sentence1))
 myname="msrkdavid"
 print(myname[3])
+#changes
