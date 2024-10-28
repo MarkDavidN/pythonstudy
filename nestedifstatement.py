@@ -9,11 +9,14 @@
 #If it is, print "Transaction exceeds the limit for Premium accounts."
 #If not, print "Transaction approved."
 
-standard=int(input("enter amount"))
-premium=int(input("enter amount"))
-if standard>800 :print("transaction exceeds for standard account")
-else:print("transaction approved")
-if premium>1000:print("transaction exceeds for premium account")
-else:print("transaction approved")
+# standard=int(input("enter amount"))
+# premium=int(input("enter amount"))
+# if standard>800 :print("transaction exceeds for standard account")
+# else:print("transaction approved")
+# if premium>1000:print("transaction exceeds for premium account")
+# else:print("transaction approved")
+
+tramount=input("enter transaction amount")
+acctype=input("choose acc type premium/standard")
   
   
