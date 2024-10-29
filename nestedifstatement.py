@@ -18,5 +18,8 @@
 
 tramount=input("enter transaction amount")
 acctype=input("choose acc type premium/standard")
+
+
+
   
   

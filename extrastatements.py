@@ -63,7 +63,7 @@ else:print("access denied")
 #Prints "Integer Detected" if value is an integer.
 #Prints "Unknown Type" for any other type.
 value=input("enter value")
-if (type(value)) ==  str:print("string detected")
+if (type(value)) == str:print("string detected")
 elif (type(value)) == int:print("integer detected")
 else:print('unknown type')
 
